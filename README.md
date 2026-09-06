@@ -25,4 +25,4 @@ This repository contains the complete code, exported artifacts, and technical re
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Deepmind00/Heart-Attack-Prediction-Reproduction-Audit.git](https://github.com/Deepmind00/Heart-Attack-Prediction-Reproduction-Audit.git)
-   cd Heart-Attack-Prediction-Reproduction-Audit
+   
