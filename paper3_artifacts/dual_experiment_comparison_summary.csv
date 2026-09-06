@@ -1,0 +1,4 @@
+Model / Metric,Experiment 1 (1025 Records),Experiment 2 (302 Records),Performance Delta (Drop)
+Stacking Ensemble Accuracy,1.0,0.7540983606557377,0.24590163934426235
+Stacking Ensemble AUC,1.0,0.8625541125541126,0.13744588744588737
+Best Base Learner Accuracy,1.0,0.8032786885245902,0.19672131147540983
